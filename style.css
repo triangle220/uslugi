@@ -1,0 +1,28 @@
+.link {
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    font-family: arial;
+    font-weight: bold;
+}
+.main{
+    background-color: rgb(29, 29, 29);
+}
+.orange {
+    color: orange;
+    font-size: 40px;
+    font-family: arial;
+    padding: 20px;
+    font-weight: bold;
+}
+.white{
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    
+}
+.link:hover {
+    font-size: 40px;
+    color: orange;
+}

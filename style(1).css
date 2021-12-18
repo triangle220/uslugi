@@ -1,0 +1,32 @@
+.n {
+    text-decoration: none;
+    padding: 15px;
+    font-family: arial;
+    font-weight: bold;
+    color: papayawhip;
+    font-size: 20px;
+}
+.b {
+    background-color: rgb(29, 29, 29);
+}
+.kontakti {
+    text-decoration: none;
+    padding-left: 15px;
+    font-family: arial;
+    font-weight: bold;
+    color: orange;
+    font-size: 30px;
+    padding-top: 20px;
+}
+.m {
+    text-decoration: none;
+    color: white;
+    font-family: arial;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+}
+.n:hover {
+    font-size: 20px;
+    color: orange;
+}
